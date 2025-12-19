@@ -1,0 +1,8 @@
+jupyter
+ipython
+ipython-sql
+sqlalchemy
+duckdb
+pandas
+python-dotenv
+pandasql
